@@ -3,6 +3,7 @@
 * HHA 507 HW 7/kinda HW 7B (labelled assignment 7B in Brightspace)
 * Assignment details below
 
+## Note: I did try to do the whole geospatial.py thing as seen in the example repos by Professor Williams and follow along with the in-class example, but from the directions of this assignment it would seem that the .py file was unecessary and all objectives could be completed in the juypter notebook. I have uploaded my inital start on the .py file just to keep everything together.
 <br>
 
 ## **Week 7: Geospatial Data**
